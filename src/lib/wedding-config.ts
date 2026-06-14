@@ -193,8 +193,8 @@ const config: WeddingConfig = {
     },
     {
       label: "BPI",
-      accountName: "Clarence Cedric Lee",
-      accountNumber: "3729376026",
+      accountName: "Karen Jane Victolero",
+      accountNumber: "8039375975",
       qrImagePath: "/images/qr/BPI.PNG",
       logo: "/images/logos/bpi.svg",
     },
